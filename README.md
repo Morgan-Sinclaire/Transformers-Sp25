@@ -22,3 +22,7 @@ At the beginning of this class, I heavily recommended [3Blue1Brown's playlist](h
 - Noam Brown's [lecture](https://www.youtube.com/watch?v=eaAonE58sLU) on search
 - Sasha Rush's [lecture](https://www.youtube.com/live/6fJjojpwv1I) on reward signals
 - The DeepSeek-R1 [paper](https://arxiv.org/abs/2501.12948)
+
+## CoT Monitoring
+
+- OpenAI's [blog/paper]([url](https://openai.com/index/chain-of-thought-monitoring/))
