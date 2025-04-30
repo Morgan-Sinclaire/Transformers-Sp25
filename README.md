@@ -25,4 +25,4 @@ At the beginning of this class, I heavily recommended [3Blue1Brown's playlist](h
 
 ## CoT Monitoring
 
-- OpenAI's [blog/paper]([url](https://openai.com/index/chain-of-thought-monitoring/))
+- OpenAI's [blog/paper](https://openai.com/index/chain-of-thought-monitoring/)
