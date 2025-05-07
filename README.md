@@ -26,3 +26,7 @@ At the beginning of this class, I heavily recommended [3Blue1Brown's playlist](h
 ## CoT Monitoring
 
 - OpenAI's [blog/paper](https://openai.com/index/chain-of-thought-monitoring/)
+
+## AI Alignment
+
+- Anthropic's [blog/paper](https://www.anthropic.com/research/alignment-faking) on alignment faking
